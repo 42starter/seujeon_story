@@ -1,3 +1,5 @@
+# Oh-My-C-Lang
+	42 Piscine 기간에서 채우지 못했던 C 역량을 끌어올리는 스터디 자료들 입니다.
 # Index Of All
 
 - ### Section 2, 3
