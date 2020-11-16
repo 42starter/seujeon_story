@@ -6,7 +6,8 @@
 	- [Summary](https://err0rcode7.github.io/42starter/2020/11/13/oh_my_c_lang_1.html)
 	- Presenter [napaholic](https://github.com/napaholic)
 - ### Section 3
-	- Presenter [juoh](https://github.com/juoh0)
+	- [Summary](https://err0rcode7.github.io/42starter/2020/11/16/oh_my_c_lang_2.html)
+	Presenter [juoh](https://github.com/juoh0)
 - ### Section 4
 	- Presenter [JaehaYi](https://github.com/idjaeha)
 - ### Section 5
