@@ -8,3 +8,5 @@
 - ### Day 02 - [pandas 02](https://github.com/42starter/seujeon_story/tree/main/i-can-pandas/documents/day02)
 
 - ### Day 03 - [pandas 02_03_plus](https://github.com/42starter/seujeon_story/tree/main/i-can-pandas/documents/day03)
+
+- ### Day 04 - [mapplot](https://github.com/42starter/seujeon_story/tree/main/i-can-pandas/documents/day04)
