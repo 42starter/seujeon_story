@@ -7,7 +7,7 @@
 
 - ### [day 02](https://err0rcode7.github.io/diary/2020/11/15/Oh_My_C_P_P_2.html)
 
-- ### day 03
+- ### [day 03](https://err0rcode7.github.io/diary/2020/11/20/Oh_My_C_P_P_3.html)
 
 - ### day 04
 
