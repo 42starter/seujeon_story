@@ -13,7 +13,7 @@
 
 - # Index Of Contents
 
-  - ### [La_Piscine](https://github.com/42starter/seujeon_stroy/tree/main/la_piscine)
+  - ### [La_Piscine](https://github.com/42starter/seujeon_story/tree/main/la_piscine)
 
   - ### [Oh-My-C-Lang](https://github.com/42starter/seujeon_story/tree/main/oh-my-c-lang)
 
