@@ -18,3 +18,5 @@
   - ### [Oh-My-CPP](https://github.com/42starter/seujeon_story/tree/main/oh-my-cpp)
 
   - ### [I Can Pandas](https://github.com/42starter/seujeon_story/tree/main/i-can-pandas)
+
+  - ### [Algorithm with python](https://github.com/Err0rCode7/algorithm)
