@@ -7,6 +7,6 @@
 
 - ### [20201222(화)](https://github.com/42starter/seujeon_story/tree/main/42report/2020-12-22-ft_libft_2)
 
-- ### [20201223(수)](https://github.com/42starter/seujeon_story/tree/main/42report/2020-12-23-ft_libft_3)
+- ### [20201223(수)](https://github.com/42starter/seujeon_story/blob/main/42report/2020-12-23-ft_libft_3)
 
-- ### [20201224(목)](https://github.com/42starter/seujeon_story/tree/main/42report/2020-12-24-ft_libft_4)
+- ### [20201224(목)](https://github.com/42starter/seujeon_story/blob/main/42report/2020-12-24-ft_libft_4)
