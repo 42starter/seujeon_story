@@ -4,12 +4,12 @@ layout: post
 title:  "get_next_line"
 crawlertitle: "get_next_line"
 summary: "get_next_line"
-date: 2021-01-04 23:00:00 +0900
+date: 2021-01-05 22:00:00 +0900
 category: 42Seoul
 author: Err0rCode7
 ---
 
-42 Seoul ft_libft 라이브러리 구현 프로젝트를 진행한 내용을 정리하여 포스팅을 진행합니다.
+42 Seoul - get_next_line 프로젝트를 진행한 내용을 정리하여 포스팅을 진행합니다.
 
 ---
 
